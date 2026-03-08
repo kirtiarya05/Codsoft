@@ -29,8 +29,8 @@ A sleek, dark-themed **Scientific Calculator** built entirely in **Pure Python**
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/TrustGuardAI.git
-   cd TrustGuardAI/Task2_Calculator
+   git clone https://github.com/kirtiarya05/codesoft.git
+   cd codesoft/Task2_Calculator
    ```
 
 2. **No Dependencies Needed!**
