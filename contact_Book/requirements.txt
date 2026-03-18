@@ -1,0 +1,2 @@
+# Standard libraries only, no external dependencies needed for GUI.
+# Built with tkinter.

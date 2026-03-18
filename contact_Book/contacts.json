@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Kirti Arya",
+        "phone": "9876543210",
+        "email": "kirti@example.com",
+        "address": "Internship Office, NY"
+    },
+    {
+        "name": "Vishesh",
+        "phone": "345678909",
+        "email": "",
+        "address": ""
+    }
+]
